@@ -33,3 +33,9 @@ One-Time-Pad - UnConditional Security - 공격자는 무한한 계산 자원을 
 
 모든 key stream은 오직 1번만 사용된다. 키 스트림 비트는 재사용X
 
+```
+Kerckhoff's Principle
+
+A cryptosystem should be secure even if the attacker knows all details about the system, with the exception of the secret key.
+In particular, the system should be secure when the attacker knows the encryption and decryption algorithms.
+```
