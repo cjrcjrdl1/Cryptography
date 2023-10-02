@@ -39,3 +39,10 @@ Kerckhoff's Principle
 A cryptosystem should be secure even if the attacker knows all details about the system, with the exception of the secret key.
 In particular, the system should be secure when the attacker knows the encryption and decryption algorithms.
 ```
+
+```
+56-64bits short term : a few hours or days
+112-128bits long term : several decades in the absence of quantum computers
+256bits long term : several decades, even with quantum computers
+that run the currently known quantum computing algorithms
+```
