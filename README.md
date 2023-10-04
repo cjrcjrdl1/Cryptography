@@ -55,3 +55,13 @@ One-Time Pad (OTP)
 
 is called a one-time pad. The one-time pad is unconditionally secure
 ```
+
+Linear Feedback Shift Registers(LSFR)
+
+An LFSR consists of clocked storage elements (flip-flops) and a feedback path.
+
+The number of storage elements gives us the degree of the LFSR.
+
+In other words, an LFSR with m flip-flops is said to be of degree m.
+
+The feedback network computes the input for the last flip-flop as XOR-sum of certain flip-flops in the shift register.
